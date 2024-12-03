@@ -22,6 +22,7 @@ JPEG Encoder and Decoder  using C++  QT
 
 
 UI 实现界面：
+
 ![image](https://github.com/user-attachments/assets/b6324da5-1028-4176-98a5-b50f4b892eff)
 
 
